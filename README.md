@@ -1,4 +1,4 @@
-# erxes-aicamp-custom-features
+# Erxes Custom Features
 ## Developed by Alex Fry, Mason Paider, and Cassidy Blackwood
 
 ## About:
